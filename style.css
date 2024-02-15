@@ -14,7 +14,7 @@ body {
     min-height: 100vh;
     font-family: var(--font);
     background: radial-gradient(ellipse at bottom, var(--bgColor) 0%, var(--bgColor2) 100%);
-    background-image: url('https://github.com/kenta946/linktree-/blob/main/2de30b04a406b39168e012a9c79a7998_t.jpeg?raw=true');
+    background-image: url('https://raw.githubusercontent.com/kenta946/linktree-/main/2de30b04a406b39168e012a9c79a7998_t.jpeg');
     opacity: 0;
     animation: 1s ease-out var(--delay) 1 transitionAnimation; /* duration/timing-function/delay/iterations/name */
     animation-fill-mode: forwards;
