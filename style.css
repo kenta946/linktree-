@@ -7,6 +7,10 @@
     --font: 'Karla', sans-serif;
     --delay: .3s;
 }
+#userName a {
+text-decoration:none;
+}
+
 
 body {
     margin: 0;
